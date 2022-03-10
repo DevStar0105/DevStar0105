@@ -4,11 +4,11 @@
     <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   </p>
   <p>
-  Hi there<br>
-  I'm a Skilled Professional Developer.<br><br>
-  I have been working in web and mobile development for 10+ years.<br><br>
-  My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
-  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+  Hello, there<br>
+  I'm a Full Stack Developer.<br><br>
+  I have been working in web and mobile development for 7+ years.<br><br>
+  I have already finished building mobile and applications, developing eCommerce and shopping websites, designing landing pages and more.<br><br>
+  🏆 I’ve built websites for clients all over the country in a number of industries including finance, blockchain/cryptocurrency, fitness, and fashion.</p>
 </p>
 <p align="center">
   <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
@@ -16,14 +16,13 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
-- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
-- 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning
-- 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
-- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
+- 💽 <b>Programming Languages</b> : C/C++, C#, Java, Python, JavaScript, HTML/CSS, PHP, ActionScript
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, Web3.js
+- 🗃 <b>Backend</b> : Node.js, Express.js, Django
+- 🥇 <b>Top Skill</b> : Web Design, Unity, MERN, MEAN
+- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, Cloud Database
+- ⚖ <b>Testing Tools</b> : Matlab, Simulink, Postman
+- 🌧 <b>Cloud Computing</b> : Google, AWS
 <br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
