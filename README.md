@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Developer</h2>
+<!--<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Developer</h2>
 <p>
   <p>
     <img align="right" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif" />
@@ -12,7 +12,7 @@
 </p>
 <!--<p align="center">
   <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>-->
+</p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
