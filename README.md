@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Developer</h2>
 <p>
   <p>
-    <img align="right" width="500" src="https://i.gifer.com/1Cr1.gif" />
+    <img align="right" width="500" src="https://www.gifimages.pics/images/quotes/english/general/working-gif-52650-120754.gif" />
   </p>
   <p>
   Hello, there<br>
