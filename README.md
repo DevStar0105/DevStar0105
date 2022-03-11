@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="live:.cid.bda6543e6a6f99ed">
+  <a href="https://web.skype.com/live:.cid.bda6543e6a6f99ed">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
-  <a href="olekstepan1998@gmail.com">
+  <a href="https://mail.google.com/olekstepan1998@gmail.com">
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="#">
