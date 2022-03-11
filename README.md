@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=envelope&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
