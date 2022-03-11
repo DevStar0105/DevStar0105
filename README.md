@@ -25,6 +25,11 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I have 7 years of web & app development experience and I’m highly skilled in security, server maintenance, and new feature implementation.
+I’m organized, deadline-driven, and I’ve built websites for clients all over the country in a number of industries including finance, blockchain/cryptocurrency, fitness, and fashion.
+
+My Email Address: olekstepan1998@gmail.com
+My Skype Address: live:.cid.bda6543e6a6f99ed
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
