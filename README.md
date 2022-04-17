@@ -8,7 +8,7 @@
   <a href="https://mail.google.com/olekstepan1998@gmail.com">
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=google&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="#">
+  <a href="https://t.me/DevStar0105">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
